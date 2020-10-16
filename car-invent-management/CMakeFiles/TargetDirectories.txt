@@ -1,0 +1,7 @@
+/home/user/Downloads/car-invent-management/CMakeFiles/rebuild_cache.dir
+/home/user/Downloads/car-invent-management/CMakeFiles/edit_cache.dir
+/home/user/Downloads/car-invent-management/CMakeFiles/Util.dir
+/home/user/Downloads/car-invent-management/CMakeFiles/Store.dir
+/home/user/Downloads/car-invent-management/CMakeFiles/Book.dir
+/home/user/Downloads/car-invent-management/CMakeFiles/Member.dir
+/home/user/Downloads/car-invent-management/CMakeFiles/main.dir

@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/user/Downloads/car-invent-management/src/util.cpp
+string
+-
+iostream
+-
+member.h
+/home/user/Downloads/car-invent-management/src/member.h
+book.h
+/home/user/Downloads/car-invent-management/src/book.h
+
+include/book.h
+string
+-
+vector
+-
+
+include/member.h
+string
+-
+vector
+-
+

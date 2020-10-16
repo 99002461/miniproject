@@ -1,0 +1,2 @@
+/usr/bin/ar qc libMember.a  CMakeFiles/Member.dir/src/member.cpp.o
+/usr/bin/ranlib libMember.a

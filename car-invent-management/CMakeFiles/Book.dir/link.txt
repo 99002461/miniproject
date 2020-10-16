@@ -1,0 +1,2 @@
+/usr/bin/ar qc libBook.a  CMakeFiles/Book.dir/src/book.cpp.o
+/usr/bin/ranlib libBook.a
