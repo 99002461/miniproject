@@ -86,7 +86,7 @@ int main()
         default:
             break;
         }
-
+        
         // sleeps for 3 seconds before reprinting help
         {
             this_thread::sleep_for(chrono::seconds(3));
@@ -128,6 +128,9 @@ void help()
     println("[ " + grey("0") + " ] " + "Exit");
     cout << endl;
 }
+println();
+println();
+println();
 
 
 int getaction()
