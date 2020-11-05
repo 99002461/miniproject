@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div id="myid3"> local </div>
+    <div id="myid2">  session</div>
+    <script>
+           var username = localStorage.getItem('uname') ;
+            var message =localStorage.getItem('message',' have a great day');
+            
+            document.getElementById("myid3").innerHTML = username + message ;
+            
+            var username1 = sessionStorage.getItem('uname') ;
+            var message = sessionStorage.getItem('message',' have a great day');
+            document.getElementById("myid2").innerHTML = username + message ;
+
+    </script>
+</body>
+</html>
